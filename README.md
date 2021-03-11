@@ -7,7 +7,7 @@
 
 I am Edinson CarranzaSaldaña. I am a Full Stack developer who is passionate about doing open source projects, creating technology to uplift people, and building a community.
 
-🔭 The first decentralized community on blockchain WALLCHAIN
+🔭 The first decentralized community on blockchain SUNICOIN.ORG
 
 👯 I’m looking to collaborate on ReactJS / VueJs projects.
 
