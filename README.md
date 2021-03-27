@@ -5,15 +5,15 @@
 <a href="https://edinsoncs.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
 </p>
 
-I am Edinson CarranzaSaldaña. I am a Full Stack developer who is passionate about doing open source projects, creating technology to uplift people, and building a community.
+I am Edinson Carranza Saldaña. I am a Full Stack developer who is passionate about doing open source projects, creating technology to elevate people and building a community, with 8 years of development experience in software factories, agencies and banks.
 
-🔭 The first decentralized community on blockchain SUNICOIN.ORG
+🔭 The first decentralized sustainable community on blockchain SUNICOIN.ORG
 
-👯 I’m looking to collaborate on ReactJS / VueJs projects.
+👯 Technology educator at private universities.
 
-🤔 I’m looking for help with supporting my open source projects.
+🤔 Library builder for javascript and frontend.
 
-💡I’m looking to collaborate on APIS projects.
+💡 Development of new digital businesses in AI.
 
 📫 How to reach me:
 
