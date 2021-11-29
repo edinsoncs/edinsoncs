@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Edinson Carranza Saldaña </h1> </p>
+<p align="center"> <h1 align="center"> Edison  </h1> </p>
 <p align="center">
 <a href="https://github.com/ockang" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="EdinsonCS" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/edinsoncarranza/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="EdinsonCS" height="20" width="20" /></a>
