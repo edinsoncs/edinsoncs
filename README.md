@@ -5,9 +5,9 @@
 <a href="https://edinsoncs.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
 </p>
 
-I am Edinson Carranza Saldaña. I am a Full Stack developer who is passionate about doing open source projects, creating technology to elevate people and building a community, with 8 years of development experience in software factories, agencies and banks.
+I am Edinson Carranza Saldaña. I am a Full Stack developer who is passionate about doing open source projects, creating technology to elevate people and building a community, with 10 years of development experience in software factories, agencies and banks.
 
-🔭 The first decentralized sustainable community on blockchain SUNICOIN.ORG
+🔭 The first decentralized sustainable community on blockchain DEV.TO
 
 👯 Technology educator at private universities.
 
