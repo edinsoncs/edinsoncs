@@ -15,9 +15,7 @@ I am Edinson Carranza Saldaña. I am a Full Stack developer who is passionate ab
 
 💡 Development of new digital businesses in AI.
 
-📫 How to reach me:
 
-`Website` - [Edinsoncs.com](https://edinsoncs.com)
 
 
 <!--
