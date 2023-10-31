@@ -30,8 +30,8 @@
 
 <a href="https://linkedin.com/in/edinsoncarranza"><img src="https://img.shields.io/badge/-edinsoncarranza-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edinsoncode@gmail.com"><img src="https://img.shields.io/badge/-edinsoncode@gmail.com-026dbd?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/edinsoncode"><img src="https://img.shields.io/badge/-@edinsoncode?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://t.me/eddydex"><img src="https://img.shields.io/badge/-@eddydex?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://twitter.com/edinsoncode"><img src="https://img.shields.io/badge/-@edinsoncode-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://t.me/eddydex"><img src="https://img.shields.io/badge/-@eddydex-32aade?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
 
