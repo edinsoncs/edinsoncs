@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer, Blockchain Developer</h3>
 	
 <p align="center"> 
-	<a align="center" href="[https://vamosgs.me/](https://www.bit256.io/)"><img src="https://img.shields.io/badge/bit256.io-website-lightgrey?style=flat-square&logo=Accenture"/></a>
+	<a align="center" href="https://www.bit256.io/"><img src="https://img.shields.io/badge/bit256.io-website-lightgrey?style=flat-square&logo=Accenture"/></a>
 </p>
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/edinsoncs?tab=repositories)
